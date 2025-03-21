@@ -1,1 +1,2 @@
 1. Memperbaiki bug pada API registrasi pengguna
+2. Memperbaiki bug pada API login pengguna 
