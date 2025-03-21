@@ -1,3 +1,4 @@
 1. Memperbaiki bug pada API registrasi pengguna
 2. Memperbaiki bug pada API login pengguna 
 3. Memperbaiki bug pada API untuk melihat detail post 
+4. Menambahkan bug pada API untuk mencari post dengan nama post 
