@@ -1,2 +1,3 @@
 1. Menambahkan DOCS API registrasi pengguna
-2. Menambahkan DOCS API login pengguna
+2. Menambahkan DOCS API login 
+3. Menambahkan DOCS API untuk melihat detail post
