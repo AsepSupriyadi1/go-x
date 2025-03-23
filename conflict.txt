@@ -1,1 +1,2 @@
 1. Ini perubahan dari branch master
+1. Ini perubahan dari branch conflict
