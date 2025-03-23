@@ -1,0 +1,5 @@
+1. Menambahkan API registrasi pengguna
+2. Menambahkan API login pengguna
+3. Menambahkan API untuk melihat detail post
+4. Menambahkan API untuk mencari post dengan nama post
+5. Menambahkan API untuk menambahkan komentar pada post
