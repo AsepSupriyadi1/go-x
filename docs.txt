@@ -1,0 +1,5 @@
+1. Menambahkan DOCS API registrasi pengguna
+2. Menambahkan DOCS API login 
+3. Menambahkan DOCS API untuk melihat detail post
+4. Menambahkan DOCS API untuk mencari post dengan nama post
+5. Menambahkan DOCS API untuk menambahkan komentar pada post
